@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Double-selection-system", "Double-selection-system.csproj", "{E9781A07-33A3-4CDA-B1E1-40D77776BB65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9781A07-33A3-4CDA-B1E1-40D77776BB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9781A07-33A3-4CDA-B1E1-40D77776BB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9781A07-33A3-4CDA-B1E1-40D77776BB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9781A07-33A3-4CDA-B1E1-40D77776BB65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7409E67D-E458-4773-8A7B-5F7D4640BF1A}
+	EndGlobalSection
+EndGlobal
